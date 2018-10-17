@@ -1,5 +1,5 @@
 Hi there!
-This project (JYC - Jaypee Youth Club) database management functions around the various important segments of the raw data to digital data conversion.
+This project (JYC - Jaypee Youth Club) database management roams around the various important segments of the raw data to digital data conversion.
 
 
 Soon this gonna project gonna publicly published.
@@ -18,4 +18,4 @@ __________________________________
 
 
 
-© All rights reserved under A.A.G group's consent.
+Â© All rights reserved under A.A.G group's consent.
